@@ -1,0 +1,4 @@
+#here we keep all the dependies for python
+Flask
+guicorn
+requestsgi
